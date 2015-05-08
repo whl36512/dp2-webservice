@@ -1,5 +1,7 @@
 Install Web Service into DP2
 
+The web service uses Jersey framework
+
 yum install git -y
 
 Download maven
