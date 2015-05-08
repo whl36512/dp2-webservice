@@ -1,8 +1,8 @@
-#Install Web Service into DP2
+###Install Web Service into DP2
 
 The web service uses Jersey framework
 
-##Steps
+####Steps
 * yum install git -y
 * Download maven
 * tar xvf apache-maven-3.3.3-bin.tar.gz
