@@ -1,0 +1,9 @@
+---
+applications:
+- name: webapp2
+  memory: 512M
+  host: webapp2
+  path: /root/dp2-learn/webapp2/target/webapp2.war
+  env:
+    MESSAGE: "Ala ma kota"
+    ANOTHER: 51
